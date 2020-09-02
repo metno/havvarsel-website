@@ -1,1 +1,3 @@
-## This is the repository for metno.github.io/havvarsel-website
+## Havvarsel website
+
+This is the repository for https://metno.github.io/havvarsel-website
