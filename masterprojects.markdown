@@ -37,3 +37,4 @@ TODO: fyll inn kort beskrivelse og kontaktpunkt
 
 **Sammenligning med EnKF(?)**
 TODO: fyll inn kort beskrivelse og kontaktpunkt
+This is a very cool project. Recommended.
