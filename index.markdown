@@ -8,6 +8,7 @@ layout: page
 <!-- TODO: Lag engelsk versjon av nettstedet? -->
 
 ![Smartbøye og Redningsselskapet](assets/images/redningsselskapet_og_smartboye.jpg)
+*Kilde og fotograf: Tom Kausanrød, Redningsselskapet*
 
 Værvarselet har blitt et sentralt verktøy som vi bruker daglig for å ta både store og små avgjørelser. For de som jobber tett på havet, så kan derimot et havvarsel være vel så viktig.
 For eksempel er redningstjenesten avhengig av gode prediksjoner av drivbane basert på havstrømmer, bølger og vind; oppdrettsnæringen kan bruke prediksjoner av strømforhold rundt oppdrettsanleggene for å planlegge hvor mye mat de skal gi og når; og hvem kunne ikke tenkt seg å vite badetemperaturen for de neste dagene når de er på ferie langs kysten?
