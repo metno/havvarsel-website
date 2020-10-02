@@ -17,6 +17,8 @@ Meteorologisk institutt (MET) varsler været, overvåker klimaet og driver forsk
 Lokal prosjektleder og kontaktperson: [Martin Lilleeng Sætra](https://www.met.no/ansatte/martin-lilleeng-saetra)
 
 # SINTEF Digital
-TODO: Fyll inn kort beskrivelse av instituttet og rollen i prosjektet (se avsnitt om MET på denne siden som et eksempel, og prosjektbeskrivelsen). Dere må naturligvis gjerne skrive noe lengre tekst enn det jeg har gjort, men vi bør avstemme lengden før publisering, slik at det står nogenlunde like mye om hver samarbeidspartner.
+[SINTEF Digital](https://www.sintef.no/digital/) er representert i prosjektet gjennom avdelingen Mathematics & Cybernetics. De sitter på ekspertise og erfaringer innen beregningskrevende geovitenskap, high-performance computing, big data, og kunstig intelligens, og innehar en sterk akademisk stilling i det internasjonale forskningsmiljøet. Avdeling har også lang erfaring med utvikling av både kommersiell og open source kode for numeriske beregninger. SINTEF Digital leder arbeidspakke 2 (WP 2).
+
+[//]: # (SINTEF DIGITAL is a research division in SINTEF with 400 employees and is here represented by the Department of Mathematics and Cybernetics. They have relevant expertise and experience within computational geoscience and engineering, HPC, big data, and artificial intelligence, and have a strong academic standing in the international community. The department has long experience with developing commercial and open-source numerical simulation code.)
 
 Lokal prosjektleder og kontaktperson: [Håvard Heitlo Holm](https://www.sintef.no/alle-ansatte/ansatt/?empid=5205)
