@@ -19,6 +19,19 @@ Dette er grunnen til at Havvarsel skal utvikle nettjenester som muliggjør tovei
 
 Prosjektpartnerene SINTEF Digital, Havforskningsinstituttet og Meteorologisk institutt går i dette prosjektet sammen for å utvikle forbedrede simuleringsverktøy og en digital infrastruktur for å lage lokale havvarsel basert på tre utvalgte demonstratorer. Demonstratorene blir utviklet i tett dialog med interessenter fra industri, offentlige tjenester og media for å sørge for at tjenesten inneholder mest mulig brukervennlig informasjon.
 
+| Prosjektopplysninger                                                              |
+|-----------------------------------------------------------------------------------|
+| Kortnavn             | Havvarsel                                                  |
+| Fullt navn           | Personalized ocean forecasts in a two-way data flow system |
+| Prosjektleder (PI)   | Jan Erik Stiansen                                          |
+| NFR-program          | Ubiquitous Data and Services                               |
+| NFR-prosjektnummer   | 310515                                                     |
+| Oppstart             | 01.03.2020                                                 |
+| Avslutning           | 31.03.2024                                                 |
+| Koordinator          | Havforskningsinstituttet                                   |
+| Samarbeidspartnere   | Meteorologisk institutt og SINTEF Digital                  |
+| Bevilgning           | 16 MNOK                                                    |
+
 Full prosjektbeskrivelse (engelsk): [PDF-dokument](assets/files/Havvarsel_project_description.pdf)
 
 ![Flytdiagram for toveis-kommunikasjon og spesialvarsler](assets/images/flytdiagram_prosjektbeskrivelse.svg)
