@@ -7,7 +7,7 @@ permalink: /partners/
 Arbeidet i Havvarsel utføres i tett samarbeid mellom tre forskningsinstitutter. Det er fokus på å utnytte synergieffekter med andre pågående prosjekter og aktiviteter hos hver samarbeidspartner. Havforskningsinstituttet er prosjektkoordinator.
 
 # Havforskningsinstituttet
-TODO: Fyll inn kort beskrivelse av instituttet og rollen i prosjektet (se avsnitt om MET på denne siden som et eksempel, og prosjektbeskrivelsen). Dere må naturligvis gjerne skrive noe lengre tekst enn det jeg har gjort, men vi bør avstemme lengden før publisering, slik at det står nogenlunde like mye om hver samarbeidspartner.
+Havforskningsinstituttet (HI) overvåker og forsker på havet og dets levende ressurser for å gi råd til norske myndigheter. HI har også et samfunnsansvar med å tilrettelegge informasjon om havets miljø, de høstbare bestandene (som fisk, hval, sel, skjell og krabber) og de marine økosystemene generelt for allmennheten og næringer tilknyttet havet. Som en del av dette så har vi det nasjonale ansvar for datainnsamling av tilstanden til havet, som sjøtemperatur, saltholdighet og havstrømmer. HI har prosjekledelse og leder arbeidspakke 3. 
 
 Prosjektleder og kontaktperson: [Jan Erik Stiansen](https://www.hi.no/hi/om-oss/ansatte/jan-erik-stiansen)
 
