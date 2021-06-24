@@ -8,9 +8,9 @@ Prosjektet har en hel del interessenter (stakeholders) fra forskjellige sektorer
 
 # Interessenter (alfabetisk sortert – kun engelsk tekst foreløpig)
 
-* [Altibox](https://www.altibox.no/) (Lyse AS) runs  a  series of  sea  temperatures  buoys  along the  Norwegian  coast, along with the presentation web site [badetassen.no](https://www.badetassen.no/) and a REST API for data retrieval. They will be both a data provider and a user in our swimming temperature demonstrator (WP3, demonstrator III). Contact person: Senior Business Developer Ronny Lorentzen
+* [Altibox](https://www.altibox.no/) (Lyse AS) runs  a  series of  sea  temperatures  buoys  along the  Norwegian  coast, along with the presentation web site [badetassen.no](https://badetassen.no/) and a REST API for data retrieval. They will be both a data provider and a user in our swimming temperature demonstrator (WP3, demonstrator III). Contact person: Senior Business Developer Ronny Lorentzen
 
-* [badevann.no](https://www.badevann.no/) runs  a  series of  sea  temperatures  buoys  at  popular  Norwegian  beaches,  along with a presentation web site and a REST API for data retrieval. They will be both a data provider and a user in our swimming temperature demonstrator (WP3, demonstrator III).  Contact person: Gründer Leif Ove Finnerud
+* [badevann.no](https://badevann.no/) runs  a  series of  sea  temperatures  buoys  at  popular  Norwegian  beaches,  along with a presentation web site and a REST API for data retrieval. They will be both a data provider and a user in our swimming temperature demonstrator (WP3, demonstrator III).  Contact person: Gründer Leif Ove Finnerud
 
 * [Eide Fjordbruk](https://www.efb.no/) is a major aquaculture farm company in Norway, and they have a high focus on utilizing  new  technology  and  information,  among  them  both  current  meters  and  other oceanographic  sensors.  They  are  both  data  provider  and  user  (through  SEARIS)  in  our aquaculture demonstrator (WP3, demonstrator II). Contact person: Technical director Erlend Eide
 
