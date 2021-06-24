@@ -7,7 +7,7 @@ permalink: /masterprojects/
 <!-- TODO: distribuer til NTNU (Håvard)/OsloMet (Martin)/UiO (Kai/Martin 2021) -->
 <!-- TODO: snakk med Kai om mulige UiO-masterprosjekter: Vi plukker opp denne tråden neste sommer/høst -->
 
-Her har vi listet noen mulige masterprosjekter som kan gjøres i prosjektet Havvarsel med veiledning fra en eller flere av samarbeidspartnerne. Dette er forslag til prosjekter, hvor detaljene kan skreddersys etter interessene og bakgrunnen til den enkelte student. Ta kontakt så finner vi ut hva som er mulig.
+Her har vi listet noen mulige masterprosjekter som kan gjøres i prosjektet Havvarsel med veiledning fra en eller flere av samarbeidspartnerne. Dette er forslag til prosjekter, hvor detaljene kan skreddersys etter interessene og bakgrunnen til den enkelte student. Av praktiske årsaker så er prosjektbeskrivelsene skrevet på engelsk. Ta kontakt så finner vi ut hva som er mulig.
 
 # Maskinlæring
 
