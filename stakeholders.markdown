@@ -6,7 +6,7 @@ permalink: /stakeholders/
 
 Prosjektet har en hel del interessenter (stakeholders) fra forskjellige sektorer og fagområder:
 
-# Interessenter
+# Interessenter (kun engelsk tekst foreløpig)
 
 * Hovedredningssentralen (the   national Joint   Rescue Coordination   Centre)   has   national responsibility  in  case  of  larger  rescue  operations.  They  are  a  user  in  our  Search  and  rescue demonstrator (WP3, demonstrator I).  Contact person: Rescue leader Raymond Prestøy
 
