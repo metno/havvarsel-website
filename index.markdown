@@ -11,7 +11,7 @@ layout: page
 *Kilde og fotograf: Tom Kausanrød, Redningsselskapet*
 
 Værvarselet har blitt et sentralt verktøy som vi bruker daglig for å ta både store og små avgjørelser. For de som jobber tett på havet, så kan derimot et havvarsel være vel så viktig.
-For eksempel er redningstjenesten avhengig av gode prediksjoner av drivbane basert på havstrømmer, bølger og vind; oppdrettsnæringen kan bruke prediksjoner av strømforhold rundt oppdrettsanleggene for å planlegge hvor mye mat de skal gi og når; og hvem kunne ikke tenkt seg å vite badetemperaturen for de neste dagene når de er på ferie langs kysten?
+For eksempel er redningstjenesten avhengig av gode prediksjoner av drivbaner basert på havstrømmer, bølger og vind; oppdrettsnæringen kan bruke prediksjoner av strømforhold rundt oppdrettsanleggene for å planlegge hvor mye mat de skal gi og når; og hvem kunne ikke tenkt seg å vite badetemperaturen for de neste dagene når de er på ferie langs kysten?
 
 Forskningsprosjektet Havvarsel sikter på å utvikle lokale og persontilpassede havvarsel basert på disse eksemplene. Dynamikken i havet kan beskrives av de samme fysiske lovene som vi bruker for atmosfæren, noe som betyr at havvarselet kan lages på lignende måte som værvarselet. Hovedutfordringen er at vi mangler observasjoner og målinger som kan fortelle oss hva nåtilstanden til havet er, og som da altså er startpunktet for havvarselet.
 
