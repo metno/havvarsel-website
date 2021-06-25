@@ -14,7 +14,7 @@ Prosjektleder og kontaktperson: [Jan Erik Stiansen](https://www.hi.no/hi/om-oss/
 # Meteorologisk institutt
 [Meteorologisk institutt](https://www.met.no/) (MET) varsler været, overvåker klimaet og driver forsking. Siden instituttet ble etablert i 1866, har MET sine forskere stått sentralt i utviklingen av meteorologi og oseanografi. MET er i dag et ledende internasjonalt kompetansemiljø, og har det nasjonale ansvaret for produksjon av havvarsler ved hjelp av generelle sirkulasjonsmodeller, i tillegg til bølge-, sjøis- og værvarsler. MET leder arbeidspakke 1.
 
-Lokal prosjektleder og kontaktperson: [Martin Lilleeng Sætra](https://www.met.no/ansatte/martin-lilleeng-saetra)
+Lokal prosjektleder og kontaktperson: [Martin Lilleeng Sætra](martinls+havvarsel@met.no)
 
 # SINTEF Digital
 [SINTEF Digital](https://www.sintef.no/digital/) er representert i prosjektet gjennom avdelingen Mathematics & Cybernetics. De sitter på ekspertise og erfaringer innen beregningskrevende geovitenskap, high-performance computing, big data, og kunstig intelligens, og innehar en sterk akademisk stilling i det internasjonale forskningsmiljøet. Avdeling har også lang erfaring med utvikling av både kommersiell og open source kode for numeriske beregninger. SINTEF Digital leder arbeidspakke 2.
