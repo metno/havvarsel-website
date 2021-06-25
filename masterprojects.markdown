@@ -29,24 +29,39 @@ Temperatures in the upper few meters of the sea close to the coast experiences l
 **Brukerstyrt drivbanesimulering på havvarsel.no (med GPU Ocean/OpenDrift/OceanParcels som backend)**
 <!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
 
-# Statistikk
+<!-- # Statistikk -->
 
-**IEWPF på realistiske domener**
+<!-- **IEWPF på realistiske domener** -->
 <!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
 
-**Sammenligning med EnKF**
+
+# Numerical mathematics
+
+**The use of thermal rotational shallow water for ensemble drift-trajectory prediction**
+The rotational shallow-water equations describe the barotropic dynamic of the ocean, meaning that they assume that the pressure is solely determined by the vertical distance from the sea surface. In a generalized circulation model, however, the pressure also depends on spatial differences in water density caused by variations in temperature and salinity, leading to barocline dynamics as well. In a recent paper, Kurganov et al [1] describe a finite-volume method for solving the so-called thermal rotational shallow-water equations, which include density as an additional variable. It can thus be used for capturing both barotropic and barocline oceanographic dynamics.
+
+This master project would investigate the use of a GPU-accelerated thermal rotational shallow-water equations as a simplified ocean model for drift trajectory prediction and compare it against the currently used model with constant density. 
+
+[1] Kurganov et al, 2020: https://doi.org/10.1080/03091929.2020.1774876 
+
+Contact: [Håvard Heitlo Holm](https://www.sintef.no/alle-ansatte/ansatt/?empid=5205)
+
+
+<!-- **Initialisere simulering/varsel fra NetCDF med bruk av temperatur og saltholdighet** -->
 <!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
 
-# Numerikk
-
-**Implementere nytt skjema fra Kurganov (hvor tetthet er inkludert)**
+<!-- **Inkludere atmosfærisk trykk (med sikte på å skape baroklin dynamikk)** -->
 <!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
 
-**Initialisere simulering/varsel fra NetCDF med bruk av temperatur og saltholdighet**
-<!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
+**Efficient numerical methods for multi-layered shallow-water models for oceanographic applications**
+The shallow-water equations in a rotating frame of reference model sea-level and horizontal momentum and can be used as a simplified ocean model. It is a hyperbolic system of equations which can be solved efficiently through explicit methods implemented on massively parallel hardware, such as GPUs. An obvious weakness however, is that as a 2D model, it models the momentum as an average through the water column only, meaning that it assumes the current to be the same near the surface and near the bottom. 
 
-**Inkludere atmosfærisk trykk (med sikte på å skape baroklin dynamikk)**
-<!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
+A slightly more realistic approach is to stack two (or more) shallow-water models on top of each other, with the bottom layer being significantly deeper and slightly denser than the upper layer. The main challenge with such models is that if the shear between the layers becomes too large, the model will no longer be hyperbolic. 
+We propose a master project that would investigate how we can use a multi-layered shallow water model as a simplified model for oceanographic forecasting, with an emphasis on 
 
-**Tolags-løser for grundtvannsligningene**
-<!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
+*	efficient implementation of suitable numerical methods on GPUs,
+*	how to deal with (or avoid) loosing hyperbolicity in realistic applications,
+*	initialization from operation models and simulation of realistic domains along the Norwegian coast.
+
+Contact: [Håvard Heitlo Holm](https://www.sintef.no/alle-ansatte/ansatt/?empid=5205)
+
