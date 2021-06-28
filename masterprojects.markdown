@@ -29,10 +29,14 @@ Temperatures in the upper few meters of the sea close to the coast experiences l
 **Brukerstyrt drivbanesimulering på havvarsel.no (med GPU Ocean/OpenDrift/OceanParcels som backend)**
 <!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
 
-<!-- # Statistikk -->
+# Statistikk
 
-<!-- **IEWPF på realistiske domener** -->
-<!-- TODO: fyll inn kort beskrivelse, kontaktpunkt og relevante emner -->
+**Efficient data assimilation methods for oceanographic forecasting** 
+Data assimilation refers to mathematical techniques that combine predictions from a numerical model with recent available observations to obtain an improved estimate of the state of a system. In practical oceanography, we typically start forecast simulations a bit back in time and use recent real-world observations to steer the forecast to be statistically consistent with the observed values. This gives us better initial conditions for the actual forecast, which then will be more accurate and less uncertain.
+
+Currently, we do active research both on classical ensemble Kalman filters and nonlinear particle filters for assimilation of sparse observations of ocean currents into ensembles of simplified ocean models, with focus on real-world applications. Master projects on data assimilation can, however, be more focused on algorithmic improvements of existing methods or explorations of new or tailored methods. We encourage interested students to take contact to discuss relevant project ideas.
+
+Contact: [Håvard Heitlo Holm](https://www.sintef.no/alle-ansatte/ansatt/?empid=5205)
 
 
 # Numerical mathematics
