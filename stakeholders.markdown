@@ -4,9 +4,7 @@ title: Interessenter
 permalink: /stakeholders/
 ---
 
-Prosjektet har en hel del interessenter (stakeholders) fra forskjellige sektorer og fagområder:
-
-# Interessenter (engelsk)
+Prosjektet har en hel del interessenter (stakeholders) fra forskjellige sektorer og fagområder (engelsk):
 
 * [Altibox](https://www.altibox.no/) (Lyse AS) runs  a  series of  sea  temperatures  buoys  along the  Norwegian  coast, along with the presentation web site [badetassen.no](https://badetassen.no/) and a REST API for data retrieval. They will be both a data provider and a user in our swimming temperature demonstrator (WP3, demonstrator III). Contact person: Senior Business Developer Ronny Lorentzen
 
