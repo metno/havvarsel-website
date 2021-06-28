@@ -17,7 +17,7 @@ Prosjektleder og kontaktperson: [Jan Erik Stiansen](https://www.hi.no/hi/om-oss/
 Lokal prosjektleder og kontaktperson: [Martin Lilleeng Sætra](mailto:martinls+havvarsel@met.no)
 
 # SINTEF Digital
-[SINTEF Digital](https://www.sintef.no/digital/) er representert i prosjektet gjennom avdelingen Mathematics & Cybernetics. De sitter på ekspertise og erfaringer innen beregningskrevende geovitenskap, high-performance computing, big data, og kunstig intelligens, og innehar en sterk akademisk stilling i det internasjonale forskningsmiljøet. Avdeling har også lang erfaring med utvikling av både kommersiell og open source kode for numeriske beregninger. SINTEF Digital leder arbeidspakke 2.
+[SINTEF Digital](https://www.sintef.no/digital/) er representert i prosjektet gjennom avdelingen [Mathematics & Cybernetics](https://www.sintef.no/en/digital/departments-new/applied-mathematics/computational-geoscience/#/). De sitter på ekspertise og erfaringer innen beregningskrevende geovitenskap, high-performance computing, big data, og kunstig intelligens, og innehar en sterk akademisk stilling i det internasjonale forskningsmiljøet. Avdeling har også lang erfaring med utvikling av både kommersiell og open source kode for numeriske beregninger. SINTEF Digital leder arbeidspakke 2.
 
 [//]: # (SINTEF DIGITAL is a research division in SINTEF with 400 employees and is here represented by the Department of Mathematics and Cybernetics. They have relevant expertise and experience within computational geoscience and engineering, HPC, big data, and artificial intelligence, and have a strong academic standing in the international community. The department has long experience with developing commercial and open-source numerical simulation code.)
 
