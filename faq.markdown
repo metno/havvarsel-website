@@ -8,7 +8,7 @@ Her besvarer vi ofte stilte spørsmål. Siden oppdateres etterhvert som vi motta
 
 # havvarsel.no
 **Q:** *Hvorfor er grafikken kartet så piksellert at det ser ut som det er laget i Minecraft?*  
-**A:** Vi viser havmodellens rutenett direkte, for å gi et ærlig bilde av oppløsningen. Du kan gjøre det gjennomsiktig med skyvebryteren under fargeskalaen.
+**A:** Vi viser havmodellens rutenett direkte, for å gi et ærlig bilde av oppløsningen.
 
 **Q:** *Hvor gjelder egentlig temperaturen for når jeg trykker i kartet?*  
 **A:** Temperaturen gjelder for hele ruten som vises med farger. Det er en og samme “celle" i havmodellen.
