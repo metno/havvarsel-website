@@ -20,7 +20,9 @@ Prosjektet har en hel del interessenter (stakeholders) fra forskjellige sektorer
 
 * [NTNU, Department   of   Mathematical   Sciences](https://www.ntnu.no/imf). Supervision   of   our   PhD-student   and cooperation on mathematical models. Contact person: Professor Jo Eidsvik
 
-* [Police,  Sør-Øst  Politidistrikt](https://www.politiet.no/om/organisasjonen/politidistrikter/sor-ost/), need  quick  and easily accessible  information  on  sea  state, especially about currents and waves and possible trajectories. They are a user in our Search and Rescue demonstrator (WP3, demonstrator I).  Contact person: Police captain Terje Sandik
+* [Police,  Sør-Øst  Politidistrikt](https://www.politiet.no/om/organisasjonen/politidistrikter/sor-ost/), need  quick  and easily accessible  information  on  sea  state, especially about currents and waves and possible trajectories. They are a user in our Search and Rescue demonstrator (WP3, demonstrator I). Contact person: Police captain Terje Sandik
+
+* [Redningsselskapet, The Norwegian Sea Rescue Society](https://rs.no/), is a nationwide humanitarian association whose purpose is to save lives, salvage assets and protect the coastal environment of Norwegian waters, as well as undertaking outreach and accidentprevention initiatives to improve the safety of those at sea in Norway and abroad. They users in our Search and Rescue demonstrator (WP3, demonstrator I). Contact person: Martin Fuhr Bolstad
  
 * [SEARIS](https://www.searis.no/) with  their  Clarify platformis  a  software  technology  developer  that  works  with  Eide havbruk  to  streamline  their  information  needs  into  an  operational  farm  management  tool. They will be a user in the aquaculturedemonstrator (WP3, demonstrator II). Contact person: CEO Tore Norheim Hagtun
 
