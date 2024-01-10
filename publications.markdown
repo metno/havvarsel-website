@@ -9,7 +9,7 @@ Alle resultater i prosjektet blir publisert fortløpende på denne siden.
 
 # Tidsskriftartikler
 * F. Beiser, H. Holm, J. Eidsvik (2023) **Comparison of Ensemble-Based Data Assimilation Methods for Sparse Oceanographic Data**, Accepted in Quarterly Journal of the Royal Meteorological Society. [Early view](https://doi.org/10.1002/qj.4637)
-* A. Brodtkorb og M. Sætra (2022) **Simulating the Euler equations on multiple GPUs using Python**, *Frontiers in Physics*,10:985440. DOI:[10.3389/fphy.2022.985440](https://doi.org/10.3389/fphy.2022.985440)
+* A. Brodtkorb, M. Sætra (2022) **Simulating the Euler equations on multiple GPUs using Python**, *Frontiers in Physics*,10:985440. DOI:[10.3389/fphy.2022.985440](https://doi.org/10.3389/fphy.2022.985440)
 * A. Brodtkorb, H. Holm (2021) **Coastal Ocean Forecasting on the GPU using a Two-Dimensional Finite Volume Scheme**. *Tellus A: Dynamic Meteorology and Oceanography*, 73:1, 1-22, DOI: [10.1080/16000870.2021.1876341](https://doi.org/10.1080/16000870.2021.1876341) 
 
 #### Preprints:
@@ -32,4 +32,4 @@ Alle resultater i prosjektet blir publisert fortløpende på denne siden.
 
 # Bakgrunn
 
-* <span><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>[GPU Ocean](https://github.com/metno/gpu-ocean)</span> kodebase
+* <span><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>[GPU Ocean](https://github.com/metno/gpuocean)</span> kodebase
