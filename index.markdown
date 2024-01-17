@@ -27,7 +27,7 @@ Prosjektpartnerene SINTEF Digital, Havforskningsinstituttet og Meteorologisk ins
 | NFR-program          | Ubiquitous Data and Services                               |
 | NFR-prosjektnummer   | 310515                                                     |
 | Oppstart             | 01.03.2020                                                 |
-| Avslutning           | 31.03.2024                                                 |
+| Avslutning           | 31.12.2025                                                 |
 | Koordinator          | Havforskningsinstituttet                                   |
 | Samarbeidspartnere   | Meteorologisk institutt og SINTEF Digital                  |
 | Bevilgning           | 16 MNOK                                                    |
