@@ -8,6 +8,7 @@ Alle resultater i prosjektet blir publisert fortløpende på denne siden.
 
 
 # Tidsskriftartikler
+* F. Beiser, H, Holm, M. Sætra, N. Kristensen, K. Christensen (2024) **Combining Barotropic and Baroclinic Simplified Models for Drift Trajectory Predictions**, *Journal of Operational Oceanography*. DOI: [10.1080/1755876X.2024.2364975](https://doi.org/10.1080/1755876X.2024.2364975)
 * F. Beiser, H. Holm, J. Eidsvik (2024) **Comparison of Ensemble-Based Data Assimilation Methods for Sparse Oceanographic Data**,  *Quarterly Journal of the Royal Meteorological Society*, 150(759), 1068–1095. DOI: [10.1002/qj.4637](https://doi.org/10.1002/qj.4637) [Preprint: [arXiv:2302.07197](https://arxiv.org/abs/2302.07197)]. 
 * A. Brodtkorb, M. Sætra (2022) **Simulating the Euler equations on multiple GPUs using Python**, *Frontiers in Physics*,10:985440. DOI:[10.3389/fphy.2022.985440](https://doi.org/10.3389/fphy.2022.985440)
 * A. Brodtkorb, H. Holm (2021) **Coastal Ocean Forecasting on the GPU using a Two-Dimensional Finite Volume Scheme**. *Tellus A: Dynamic Meteorology and Oceanography*, 73:1, 1-22, DOI: [10.1080/16000870.2021.1876341](https://doi.org/10.1080/16000870.2021.1876341) 
