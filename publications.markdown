@@ -8,14 +8,12 @@ Alle resultater i prosjektet blir publisert fortløpende på denne siden.
 
 
 # Tidsskriftartikler
+* F. Beiser, H. Holm, K. Lye, J. Eidsvik (2025) **Multi-Level Data Assimilation for Ocean Forecasting using the Shallow-Water Equations**, *Journal of Computational Physics*, 524, 113722. DOI: [10.1016/j.jcp.2025.113722](https://doi.org/10.1016/j.jcp.2025.113722)
 * F. Beiser, H, Holm, M. Sætra, N. Kristensen, K. Christensen (2024) **Combining Barotropic and Baroclinic Simplified Models for Drift Trajectory Predictions**, *Journal of Operational Oceanography*, 17(3), 187-206. DOI: [10.1080/1755876X.2024.2364975](https://doi.org/10.1080/1755876X.2024.2364975)
 * F. Beiser, H. Holm, J. Eidsvik (2024) **Comparison of Ensemble-Based Data Assimilation Methods for Sparse Oceanographic Data**,  *Quarterly Journal of the Royal Meteorological Society*, 150(759), 1068–1095. DOI: [10.1002/qj.4637](https://doi.org/10.1002/qj.4637) [Preprint: [arXiv:2302.07197](https://arxiv.org/abs/2302.07197)]. 
 * A. Brodtkorb, M. Sætra (2022) **Simulating the Euler equations on multiple GPUs using Python**, *Frontiers in Physics*,10:985440. DOI:[10.3389/fphy.2022.985440](https://doi.org/10.3389/fphy.2022.985440)
 * A. Brodtkorb, H. Holm (2021) **Coastal Ocean Forecasting on the GPU using a Two-Dimensional Finite Volume Scheme**. *Tellus A: Dynamic Meteorology and Oceanography*, 73:1, 1-22, DOI: [10.1080/16000870.2021.1876341](https://doi.org/10.1080/16000870.2021.1876341) 
 
-#### Preprints:
-* F. Beiser, H. Holm, K. Lye, J. Eidsvik, **Multi-level data assimilation for simplified ocean models**. 
-[preprint](https://doi.org/10.5194/npg-2023-27)
 
 # Konferanseartikler og faglige foredrag
 * H. Holm, F. Beiser (2023) **Reducing Numerical Artifacts by Sacrificing Well-Balance for Rotating Shallow-Water Flow**. In: Franck, E., Fuhrmann, J., Michel-Dansac, V., Navoret, L. (eds) *Finite Volumes for Complex Applications X — Volume 2, Hyperbolic and Related Problems*. FVCA 2023. Springer Proceedings in Mathematics & Statistics, vol 433. Springer, Cham. DOI: [10.1007/978-3-031-40860-1_19](https://doi.org/10.1007/978-3-031-40860-1_19), presentert på *Finite Volumes for Complex Applications 10 (FVCA 10)*, Strasbourg, France, 30. oktober - 3. november 2023.
